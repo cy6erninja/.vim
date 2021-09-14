@@ -1,3 +1,6 @@
-[submodule "pack/start/auto-pairs"]
-	path = pack/start/auto-pairs
+[submodule "pack/plugins/start/auto-pairs"]
+	path = pack/start/plugins/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "pack/plugins/start/ale"]
+	path = pack/start/plugins/ale
+	url = https://github.com/dense-analysis/ale.git
